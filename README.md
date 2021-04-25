@@ -13,9 +13,7 @@
 * Remover do carrinho.
 * Galeria de imagens
 
-## Bonus game
+## Bônus
 
-* Trocar imagens quebradas para imagens de erro default.
+* Trocar imagens quebradas por imagens de erro default.
 * Renderizar no server side.
-* Persistir os dados.
-* Teste do código.
